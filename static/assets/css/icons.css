@@ -7,7 +7,7 @@
     url("./remixicon-YMLS4N6S.woff2?t=1705244689813") format("woff2"),
     url("./remixicon-SE6OC3C7.woff?t=1705244689813") format("woff"),
     url("./remixicon-YXA6Q467.ttf?t=1705244689813") format("truetype"),
-    url("./remixicon-BRVJTNCR.svg?t=1705244689813#remixicon") format("svg");
+    url("./remixicon-VHVH3GDI.svg?t=1705244689813#remixicon") format("svg");
   font-display: swap;
 }
 [class^=ri-],
@@ -8286,7 +8286,7 @@
   src:
     url("./feather-webfont-4QUFNMOI.eot?t=1501841394106") format("embedded-opentype"),
     url("./feather-webfont-XC6AAHIC.ttf") format("truetype"),
-    url("./feather-webfont-RJOT3FRU.svg") format("svg");
+    url("./feather-webfont-NQS5Q73H.svg") format("svg");
 }
 .fe {
   font-family: "feather" !important;
@@ -15272,12 +15272,12 @@
     url("./tabler-icons-UH3GCQ6L.woff2") format("woff2"),
     url("./tabler-icons-TY3YUCTX.woff") format("woff"),
     url("./tabler-icons-OVRORFYK.ttf") format("truetype"),
-    url("./tabler-icons-E2OE56WE.svg#tabler-icons") format("svg");
+    url("./tabler-icons-CDQ4XAVF.svg#tabler-icons") format("svg");
 }
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   @font-face {
     font-family: "tabler-icons";
-    src: url("./tabler-icons-E2OE56WE.svg#tabler-icons") format("svg");
+    src: url("./tabler-icons-CDQ4XAVF.svg#tabler-icons") format("svg");
   }
 }
 .ti {
@@ -25609,7 +25609,7 @@
     url("./la-brands-400-CIWECNZM.woff2") format("woff2"),
     url("./la-brands-400-D3A7B5PJ.woff") format("woff"),
     url("./la-brands-400-INB5BQB2.ttf") format("truetype"),
-    url("./la-brands-400-O3J3RJOS.svg#lineawesome") format("svg");
+    url("./la-brands-400-DCGAVEZE.svg#lineawesome") format("svg");
 }
 .lab {
   font-family: "Line Awesome Brands";
@@ -25625,7 +25625,7 @@
     url("./la-regular-400-X6VKWRSW.woff2") format("woff2"),
     url("./la-regular-400-6RPJSTIW.woff") format("woff"),
     url("./la-regular-400-34F2J7YZ.ttf") format("truetype"),
-    url("./la-regular-400-LYMOBRDA.svg#lineawesome") format("svg");
+    url("./la-regular-400-ZO72QHAG.svg#lineawesome") format("svg");
 }
 .lar {
   font-family: "Line Awesome Free";
@@ -25642,7 +25642,7 @@
     url("./la-solid-900-RZOHS333.woff2") format("woff2"),
     url("./la-solid-900-PXMBKEUD.woff") format("woff"),
     url("./la-solid-900-LAWDUD4I.ttf") format("truetype"),
-    url("./la-solid-900-K3G53YR3.svg#lineawesome") format("svg");
+    url("./la-solid-900-6KWE4WBR.svg#lineawesome") format("svg");
 }
 .la,
 .las {
@@ -27824,7 +27824,7 @@
     url("./boxicons-AQ5N6WP7.woff2") format("woff2"),
     url("./boxicons-5JNJQPUP.woff") format("woff"),
     url("./boxicons-GDR4JU3X.ttf") format("truetype"),
-    url("./boxicons-NNFHLMOR.svg?#boxicons") format("svg");
+    url("./boxicons-PATNO46W.svg?#boxicons") format("svg");
 }
 .bx {
   font-family: "boxicons" !important;
