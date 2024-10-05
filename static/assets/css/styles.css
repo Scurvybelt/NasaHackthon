@@ -92,7 +92,7 @@
   --input-border: #e8e8e8;
   --form-control-bg: rgba(var(--primary-rgb),0.05);
   --theme-bg-gradient: #021e18;
-  --bg-pattern: url("./p4-454XSD5G.svg");
+  --bg-pattern: url("./p4-XPXZRSFA.svg");
   --gray-1: #f9fafb;
   --gray-2: #f2f4f5;
   --gray-3: #e6eaeb;
@@ -1485,10 +1485,10 @@
   --bg-pattern: url("./p2-SRX4SJ2U.png");
 }
 [data-pattern-img=bgpattern3] {
-  --bg-pattern: url("./p3-YSSTLWAU.svg");
+  --bg-pattern: url("./p3-2Y2Y5QXM.svg");
 }
 [data-pattern-img=bgpattern4] {
-  --bg-pattern: url("./p4-454XSD5G.svg");
+  --bg-pattern: url("./p4-XPXZRSFA.svg");
 }
 [data-pattern-img=bgpattern5] {
   --bg-pattern: url("./p5-ANZXTM3J.png");
@@ -1500,7 +1500,7 @@
   --bg-pattern: url("./p7-GX5J274D.png");
 }
 [data-pattern-img=bgpattern8] {
-  --bg-pattern: url("./p8-DR52SKNT.svg");
+  --bg-pattern: url("./p8-JIXF7W7R.svg");
 }
 [data-pattern-img=bgpattern9] {
   --bg-pattern: url("./p9-BCFTXLSJ.png");
@@ -12213,7 +12213,7 @@ button {
   background-color: none;
 }
 .pattern-image .patternimage-input.bg-pattern3 {
-  background-image: url("./p3-YSSTLWAU.svg") !important;
+  background-image: url("./p3-2Y2Y5QXM.svg") !important;
   background-position: center;
   background-repeat: repeat;
   border: 2px solid rgba(255, 255, 255, 0.1);
@@ -12230,7 +12230,7 @@ button {
   background-color: none;
 }
 .pattern-image .patternimage-input.bg-pattern4 {
-  background-image: url("./p4-454XSD5G.svg") !important;
+  background-image: url("./p4-XPXZRSFA.svg") !important;
   background-position: center;
   background-repeat: repeat;
   border: 2px solid rgba(255, 255, 255, 0.1);
@@ -12298,7 +12298,7 @@ button {
   background-color: none;
 }
 .pattern-image .patternimage-input.bg-pattern8 {
-  background-image: url("./p8-DR52SKNT.svg") !important;
+  background-image: url("./p8-JIXF7W7R.svg") !important;
   background-position: center;
   border: 2px solid rgba(255, 255, 255, 0.1);
   background-repeat: repeat;
@@ -13539,7 +13539,7 @@ button {
   content: "";
   height: 100%;
   width: 100%;
-  background-image: url("./pattern-1-VPGHOBLP.svg");
+  background-image: url("./pattern-1-RKAEUJLL.svg");
   background-repeat: repeat;
   z-index: 0;
   opacity: 0.05;
@@ -19793,7 +19793,7 @@ code[class*=language-] {
   content: "";
   width: 100%;
   height: 100%;
-  background-image: url("./pattern-1-VPGHOBLP.svg");
+  background-image: url("./pattern-1-RKAEUJLL.svg");
   background-repeat: repeat;
   z-index: -1;
   opacity: 0.025;
@@ -20874,7 +20874,7 @@ code[class*=language-] {
   content: "";
   position: absolute;
   width: 100%;
-  background-image: url("./pattern-2-XMY77GOB.svg");
+  background-image: url("./pattern-2-MXIEFM62.svg");
   background-repeat: repeat;
   height: 100%;
   z-index: -1;

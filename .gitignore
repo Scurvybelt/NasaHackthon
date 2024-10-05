@@ -2,7 +2,10 @@
 node_modules/
 
 # Byte-compiled / optimized / DLL files
+<<<<<<< HEAD
 _pycache_/
+=======
+>>>>>>> e98b1556d36de7b6eb6cb45da558f3bfdde7e1cf
 __pycache__/
 *.py[cod]
 *$py.class
@@ -15,6 +18,7 @@ __pycache__/
 env/
 venv/
 ENV/
+<<<<<<< HEAD
 env.bak/
 venv.bak/
 *.egg-info/
@@ -59,3 +63,6 @@ staticfiles/
 # Windows
 Thumbs.db
 ehthumbs.db
+=======
+env.bak/
+>>>>>>> e98b1556d36de7b6eb6cb45da558f3bfdde7e1cf
