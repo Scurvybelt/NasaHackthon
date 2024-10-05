@@ -1,1 +1,61 @@
+# Node.js
 node_modules/
+
+# Byte-compiled / optimized / DLL files
+_pycache_/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# If you are using SQLite3 as your database
+db.sqlite3
+db.sqlite3-journal
+
+# Django migrations
+/migrations/
+!*/migrations/_init_.py
+
+# Media files
+media/
+
+# Static files
+staticfiles/
+
+# Local environment variables
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
